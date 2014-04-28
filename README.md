@@ -1,4 +1,4 @@
-                                                                                                                          xxc# Tabit Ruby
+                                                                                                                          xxc# memopad
 
 - https://github.com/yoshihisa56513/memopad
 
