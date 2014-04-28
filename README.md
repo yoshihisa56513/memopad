@@ -1,6 +1,7 @@
-# Tabit Ruby
+                                                                                                                          xxc# Tabit Ruby
 
-- https://github.com/yoshihisa56513/tabit-ruby
+- https://github.com/yoshihisa56513/memopad
+
 
 
 ## Install Dependencies
